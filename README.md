@@ -1,9 +1,7 @@
 # Frontend Mentor - Testimonials grid section
 Live Site: https://testimonials-grid-4i2.pages.dev/
-
-
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-design.jpg)
-
+  
+![Screenshot 2022-11-27 141914](https://user-images.githubusercontent.com/92965519/204126718-3806a652-9464-4ba3-9320-fccddc6ff5f4.png)  
 
 
 ## The challenge
